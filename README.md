@@ -5,7 +5,7 @@ My name is Matthew, and I am the engineer and administrator for our store, our h
 all of the other projects listed here!
 <h2>For Potential Employers</h2>
 I am currently seeking employment in the engineering field! You can reach out to me at
-matthew@symbiotic.love with any offers of employment, contract or otherwise. 
+<a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, contract or otherwise. 
 <div>&nbsp</div>
 This GitHub profile, while tied into our business, serves as my personal portfolio.
 The code is mine and mine alone, across all languages and syntaxes. I have no technical speciality. 
@@ -23,7 +23,7 @@ like calculators (one in Js and one in Python), as well as our main homepage.
 If you are a developer, our React component library is completely open-source
 and free for you to use. These components may not be perfect. They may need to be modified to fit your
 specific-use case. If you require any assistance with this, do not hesitate to reach out to us at
-support@symbiotic.love.
+<a href="mailto:support@symbiotic.love?subject=Support%20Request" alt="Send Us an Email">support@symbiotic.love.</a>
 <div>&nbsp</div>
 If you're into reading but always wondered what it would have been like if Harry Potter threw a stick
 of butter at his awful uncle, our ongoing project to create the definitive text adventure may interest 
@@ -37,13 +37,12 @@ found by visiting https://github.com/SymbioticLove/Mother.
 Most of the other small projects are here for employers, but some are functional nonetheless! Technically,
 any of these projects will function with the proper set-up, some simply haven't been packaged in their
 final form either to keep the code from being compressed or to allow them to be hosted on GitHub Pages. If
-you do find a need for a packaged version of anything here, you may reach out to support@symbiotic.love
-and we can take care of that for you!
+you do find a need for a packaged version of anything here, you may reach out to <a href="mailto:support@symbiotic.love?subject=Support%20Request" alt="Send Us an Email">support@symbiotic.love</a> and we can take care of that for you!
 <div>&nbsp</div>
 If you would like to like to learn more about us or our business, you may visit our homepage at https://symbiotic.love!
 If you'd like to support us, you can check out our shop at https://shop.symbiotic.love. We are already
 connected with the same suppliers used by Alta Beauty and Free People, amongst others. If you'd like
-us to get something, reach out to support@symbiotic.love and we will look into it!
+us to get something, reach out to <a href="mailto:support@symbiotic.love?subject=Product%20Request" alt="Send Us an Email">support@symbiotic.love</a> and we will look into it!
 <div>&nbsp</div>
 Sending 💜Love and 🌄Light,
 <div>&nbsp</div>
