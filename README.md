@@ -18,7 +18,7 @@ get familiar and comfortable with.
 In the repositories connected to this profile you will find games, React components and projects
 like calculators (one in Js and one in Python), as well as our main homepage.
 <h2>For Everyone Else</h2>
-We are working on a lot!
+<h3>We are working on a lot!</h3>
 <div>&nbsp</div>
 If you are a developer, our React component library is completely open-source
 and free for you to use. These components may not be perfect. They may need to be modified to fit your
