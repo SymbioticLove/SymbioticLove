@@ -5,7 +5,7 @@ My name is Matthew, and I am the engineer and administrator for our store, our h
 all of the other projects listed here!
 <h2>For Potential Employers</h2>
 I am currently seeking employment in the engineering field! You can reach out to me at
-<a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, contract or otherwise. 
+<a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, corp-to-corp or W2. 
 <div>&nbsp</div>
 This GitHub profile, while tied into our business, serves as my personal portfolio.
 The code is mine and mine alone, across all languages and syntaxes. I have no technical speciality. 
