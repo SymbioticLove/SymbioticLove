@@ -9,7 +9,7 @@ I am currently seeking employment in the engineering field! You can reach out to
 <div>&nbsp</div>
 This GitHub profile, while tied into our business, serves as my personal portfolio.
 The code is mine and mine alone, across all languages and syntaxes. I have no technical speciality. 
-I feel equally comfortable working with a front-end UX, a RESTful API, or an e-commerce platform, as well as with system administration.
+I feel equally comfortable working with a front-end UX, a REST API, or an e-commerce platform, as well as with system administration.
 I am familiar, on a personal level, with Agile methodology.
 <div>&nbsp</div>
 I have less experience with server-side languages and database engineering. These are a priority to
