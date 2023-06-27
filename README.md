@@ -8,7 +8,10 @@ I am currently seeking employment in the engineering field! You can reach out to
 <a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, corp-to-corp or W2. 
 <div>&nbsp</div>
 This GitHub profile, while tied into our business, serves as my personal portfolio.
-The code is mine and mine alone, across all languages and syntaxes. I have no technical speciality. 
+The code is mine and mine alone, across all languages and syntaxes. I have no technical speciality.
+<div>&nbsp</div>
+I have recently joined HackerRank! These are <a href="https://www.hackerrank.com/fordmatthew501?hr_r=1">My Certifications</a>!
+<div>&nbsp</div>
 I feel equally comfortable working with a front-end UX, a REST API, or an e-commerce platform, as well as with system administration.
 I am familiar, on a personal level, with Agile methodology.
 <div>&nbsp</div>
