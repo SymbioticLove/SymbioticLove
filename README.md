@@ -24,7 +24,7 @@ like calculators (one in Js and one in Python), as well as our main homepage.
 <h3>We are working on a lot!</h3>
 <div>&nbsp</div>
 If you are a developer, our React component library is completely open-source
-and free for you to use. These components may not be perfect. They may need to be modified to fit your
+and free for you to use, as are any of our boilerplate templates. These components may not be perfect. They may need to be modified to fit your
 specific-use case. If you require any assistance with this, do not hesitate to reach out to us at
 <a href="mailto:support@symbiotic.love?subject=Support%20Request" alt="Send Us an Email">support@symbiotic.love.</a>
 <div>&nbsp</div>
