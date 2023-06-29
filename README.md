@@ -10,7 +10,7 @@ I am currently seeking employment in the engineering field! You can reach out to
 This GitHub profile, while tied into our business, serves as my personal portfolio.
 The code is mine and mine alone, across all languages and syntaxes. I have no technical speciality.
 <div>&nbsp</div>
-I have recently joined HackerRank. These are <a href="https://www.hackerrank.com/fordmatthew501?hr_r=1">My Certifications</a>!
+I have recently joined HackerRank. These are <a href="https://www.hackerrank.com/fordmatthew501?hr_r=1">my Certifications</a>.
 <div>&nbsp</div>
 I feel equally comfortable working with a front-end UX, a REST API, or an e-commerce platform, as well as with system administration.
 I am familiar, on a personal level, with Agile methodology.
