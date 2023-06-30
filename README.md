@@ -3,6 +3,8 @@
 My wife is our designer, Jessela. She handles a lot of our store and designs many of our assets.
 My name is Matthew, and I am the engineer and administrator for our store, our homepage, and
 all of the other projects listed here!
+<h2>We are now Offering Comprehensive Web Services</h2>
+We are now offering <em>comprehensive</em> web services for anyone, with a modular pricing structure tailored to the individual. <a href="https://www.fiverr.com/matthewford501/take-your-idea-and-get-it-on-the-web" alt="consult link">Schedule a consultation today</a>!
 <h2>For Potential Employers</h2>
 I am currently seeking employment in the engineering field! You can reach out to me at
 <a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, corp-to-corp or W2. 
