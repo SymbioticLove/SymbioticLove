@@ -7,7 +7,7 @@ all of the other projects listed here!
 We are now offering <em>comprehensive</em> web services for anyone, with a modular pricing structure tailored to the individual. You only need an idea! <a href="https://www.fiverr.com/matthewford501/take-your-idea-and-get-it-on-the-web" alt="consult link">Schedule a consultation today</a>!
 <h2>For Potential Employers</h2>
 I am currently seeking employment in the engineering field! You can reach out to me at
-<a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, corp-to-corp or W2. 
+<a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, C2C, 1099 or W2. 
 <div>&nbsp</div>
 This GitHub profile, while tied into our business, serves as my personal portfolio.
 The code is mine and mine alone, across all languages and syntaxes.
