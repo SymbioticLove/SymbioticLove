@@ -7,7 +7,7 @@ all of the other projects listed here! You can view my portolio at https://symbi
 We are now offering <em>comprehensive</em> web services for anyone, with a modular pricing structure tailored to the individual. You only need an idea! <a href="https://symbioticlove.github.io/Web-Development/" alt="consult link">Take a tour and schedule a free consultation today</a>!
 <h2>For Potential Employers</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SymbioticLove)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SymbioticLove)](https://github.com/SymbioticLove/github-readme-stats)
 
 I am currently seeking employment in the engineering field! You can reach out to me at
 <a href="mailto:matthew@symbiotic.love?subject=Employment%20Inquiry" alt="Reach out to me">matthew@symbiotic.love</a> with any offers of employment, C2C, 1099 or W2. 
