@@ -2,7 +2,7 @@
 👋 Hi there! We are Symbiotic Love, a lifestyle brand with a lot of irons in the fire.
 My wife is our designer, Jessela. She handles a lot of our store and designs many of our assets.
 My name is Matthew, and I am the engineer and administrator for our store, our homepage, and
-all of the other projects listed here! You can view my portolio at https://symbioticlove.github.io/Portfolio/. Want your own? Check out https://symbioticlove.github.io/PortfolioPrime/.
+all of the other projects listed here! You can view my portolio at https://symbioticlove.github.io/Portfolio/.
 <h2>We are now Offering Comprehensive Web Services</h2>
 We are now offering <em>comprehensive</em> web services for anyone, with a modular pricing structure tailored to the individual. You only need an idea! <a href="https://symbioticlove.github.io/Web-Development/" alt="consult link">Take a tour and schedule a free consultation today</a>!
 <h2>For Potential Employers</h2>
